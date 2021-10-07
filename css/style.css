@@ -52,7 +52,7 @@ header .tools img{
 header .tools #cloche {
     display: inline-block;
     vertical-align: center;
-    background: url("/asset/bell.png");
+    background: url("https://cdn.icon-icons.com/icons2/878/PNG/512/alarm-bell_icon-icons.com_68596.png");
     opacity: .5;
     width: 1.8rem;
     height: 1.8rem;
